@@ -1,39 +1,48 @@
 # 👋 Ahmad Jamal | Embedded Systems Engineer  
 
-🔹 Passionate about **Embedded Systems, IoT, and Firmware Development**  
-🔹 Experienced in **C, C++, Python, and RTOS**  
-🔹 Love working with **Microcontrollers, FPGA, and PCB Design**  
+🔹 **Expert in Embedded Systems, IoT, and RFID Technology**  
+🔹 **5+ years of experience** in firmware development, hardware integration, and system optimization  
+🔹 Strong background in **RFID systems, Linux kernel management, and embedded security**  
 
 ---
 
 ## 🚀 About Me  
-Hello! I’m **Ahmad Jamal**, an **Embedded Systems Engineer** with experience in developing firmware, designing embedded architectures, and integrating hardware with software. My expertise spans across **IoT, Low-Level Programming, and Real-Time Systems**.  
+I am **Ahmad Jamal**, an **Embedded Systems Engineer** with extensive experience in **RFID technology, IoT solutions, and embedded software development**. I have worked on **high-frequency RFID readers, inventory management solutions, and home automation systems**, developing **firmware, device drivers, and embedded security protocols**.  
 
-🔹 **Technologies I Work With:**  
-- **Programming:** C, C++, Python, Assembly, Shell Scripting  
-- **Microcontrollers & Platforms:** ESP32, Arduino, Raspberry Pi, AVR, PIC  
-- **Protocols:** UART, SPI, I2C, CAN, MQTT
-- **PCB Design:** Altium Designer, EasyEDA
-- **Embedded Tools:** Keil, VS Code, JTAG Debuggers  
-- **OS & RTOS:** FreeRTOS, Ubuntu, Debian
+I have led teams for **R&D, hardware design, and software development** in multiple industries, including **power plants, consumer electronics, and industrial automation**. My expertise extends from **microcontroller-based system design** to **firmware optimization and PCB development**.  
+
+🔹 **Core Expertise:**  
+- **Programming:** C, C++, Python, Node.js, Shell Scripting  
+- **Embedded Platforms:** Raspberry Pi, Arduino, FPGA, ESP32  
+- **RFID & Communication Protocols:** SPI, UART, I2C  
+- **Operating Systems:** Linux (Debian, Ubuntu), FreeRTOS  
+- **Development Tools:** Keil, PlatformIO, JTAG Debuggers  
+- **PCB Design:** **Altium Designer, EasyEDA**  
+- **IoT & Cloud Integration:** MQTT, REST APIs, Wireless Interfaces  
 
 🔹 **What I Do:**  
-✔ Develop efficient **firmware** for embedded applications  
-✔ Work on **IoT systems** and cloud integration  
-✔ Optimize low-level **drivers and real-time applications**  
-✔ Design and debug **PCBs** for custom hardware solutions  
+✔ Develop **RFID-based tracking and security systems**  
+✔ Design **firmware and real-time applications** for embedded devices  
+✔ Optimize **device drivers and kernel management for Linux-based systems**  
+✔ Create **IoT-based home automation and industrial solutions**  
+✔ Design **custom PCBs using Altium Designer and EasyEDA**  
 
 ---
 
 ## 📂 Featured Projects  
-### 🛠 [Project Name 1]  
-✔ Brief description (e.g., "A smart home automation system using ESP32 and MQTT")  
-✔ Technologies: **ESP32, FreeRTOS, MQTT, Python**  
+### 🏷️ **Vehicle Attendance System with RFID Technology**  
+✔ Developed a secure RFID-based system for vehicle access control  
+✔ Technologies: **RFID, Embedded C, Raspberry Pi, Python**  
 ✔ [🔗 GitHub Repository](#)  
 
-### 🔧 [Project Name 2]  
-✔ Brief description (e.g., "Real-time vehicle tracking system with GPS & GSM module")  
-✔ Technologies: **STM32, GPS, GSM, C++**  
+### 📦 **RFID Tunnel for Inventory Management**  
+✔ Engineered a high-frequency RFID system for automated inventory tracking  
+✔ Technologies: **UHF RFID, Node.js, C++, Linux**  
+✔ [🔗 GitHub Repository](#)  
+
+### 🔄 **UHF RFID-based Inventory Sorting**  
+✔ Designed and implemented an RFID-based sorting solution for logistics  
+✔ Technologies: **RFID, IoT, MQTT, Raspberry Pi**  
 ✔ [🔗 GitHub Repository](#)  
 
 *(More projects coming soon! 🚀)*  
@@ -41,14 +50,15 @@ Hello! I’m **Ahmad Jamal**, an **Embedded Systems Engineer** with experience i
 ---
 
 ## 📬 Let's Connect!  
-💼 [LinkedIn](https://linkedin.com/theahmedjamal) | 🔗 [Personal Website](#) | ✉ Email: (mailto:the_ahmedjamal@yahoo.com)  
+💼 **LinkedIn:** [linkedin.com/theahmedjamal](https://linkedin.com/theahmedjamal)  
+✉ **Email:** [theahmadjamal@gmail.com](mailto:theahmadjamal@gmail.com)  
+📍 **Location:** Lahore, Pakistan  
 
 I’m always open to **collaborations, freelance work, and new opportunities**. Let’s build something amazing together! 🚀  
 
 ---
 
-### ⭐ If you like my work, consider giving a star to my projects!  
-
+### ⭐ **If you like my work, consider giving a star to my projects!**  
 
 <!--
 **theahmedjamal/theahmedjamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
