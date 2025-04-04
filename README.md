@@ -51,10 +51,10 @@ I have led teams for **R&D, hardware design, and software development** in multi
 
 ## 📬 Let's Connect!  
 💼 **LinkedIn:** [linkedin.com/theahmedjamal](https://linkedin.com/theahmedjamal)  
-✉ **Email:** [theahmadjamal@gmail.com](mailto:theahmadjamal@gmail.com)  
-📍 **Location:** Lahore, Pakistan  
+✉  **Email:** [theahmadjamal@gmail.com](mailto:theahmadjamal@gmail.com)  
+📍 **Location:** Lahore, Pakistan
 
-theahmedjamal is always open to **collaborations, freelance work, and new opportunities**. Let’s build something amazing together! 🚀  
+[theahmedjamal](https://github.com/theahmedjamal) is always open to **collaborations, freelance work, and new opportunities**. Let’s build something amazing together! 🚀  
 
 ---
 
