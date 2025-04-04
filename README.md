@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me  
-I am **Ahmad Jamal**, an **Embedded Systems Engineer** with extensive experience in **RFID technology, IoT solutions, and embedded software development**. I have worked on **high-frequency RFID readers, inventory management solutions, and home automation systems**, developing **firmware, device drivers, and embedded security protocols**.  
+I am [**Ahmad Jamal**](https://github.com/theahmedjamal), an **Embedded Systems Engineer** with extensive experience in **RFID technology, IoT solutions, and embedded software development**. I have worked on **high-frequency RFID readers, inventory management solutions, and home automation systems**, developing **firmware, device drivers, and embedded security protocols**.  
 
 I have led teams for **R&D, hardware design, and software development** in multiple industries, including **power plants, consumer electronics, and industrial automation**. My expertise extends from **microcontroller-based system design** to **firmware optimization and PCB development**.  
 
@@ -54,7 +54,7 @@ I have led teams for **R&D, hardware design, and software development** in multi
 ✉ **Email:** [theahmadjamal@gmail.com](mailto:theahmadjamal@gmail.com)  
 📍 **Location:** Lahore, Pakistan  
 
-I’m always open to **collaborations, freelance work, and new opportunities**. Let’s build something amazing together! 🚀  
+theahmedjamal is always open to **collaborations, freelance work, and new opportunities**. Let’s build something amazing together! 🚀  
 
 ---
 
